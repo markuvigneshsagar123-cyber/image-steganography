@@ -1,0 +1,5 @@
+{
+  "name": "Image Steganography - Hidden Message in Images",
+  "description": "A modern web application to securely hide and reveal secret messages inside images using steganography techniques.",
+  "requestFramePermissions": []
+}
